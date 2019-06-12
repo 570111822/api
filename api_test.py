@@ -65,7 +65,7 @@ if __name__ == '__main__':
 
     # 测试用例执行器
     runner = HTMLReport.TestRunner(report_file_name='test',  # 报告文件名，如果未赋值，将采用“test+时间戳”
-                                   output_path=r'C:\Users\Qianyue\Desktop\report',  # 保存文件夹名，默认“report”
+                                   output_path=r'C:\Users\dongs\Desktop\report',  # 保存文件夹名，默认“report”
                                    title='测试报告',  # 报告标题，默认“测试报告”
                                    description='无测试描述',  # 报告描述，默认“测试描述”
                                    thread_count=1,  # 并发线程数量（无序执行测试），默认数量 1
