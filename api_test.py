@@ -1,3 +1,5 @@
+#!/usr/bin/python
+#-*-coding:utf-8 -*-
 import HTMLReport  # 导入HTMLReport展示测试结果
 import unittest  # 导入unittest
 import requests  # 导入requests库
